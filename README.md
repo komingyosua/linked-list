@@ -1,2 +1,2 @@
-# linked-list
-Simple Linked List using C 
+# Linked List with C
+Using Linked List on some cases with C Language.
